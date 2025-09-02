@@ -1,11 +1,10 @@
 .skills {
-  padding: 2rem;
   background: #fff;
 
   .section-title {
     text-align: center;
-    font-size: 1.8rem;
-    margin-bottom: 2rem;
+    font-size: 16px;
+    margin-bottom: 5px;
   }
 
   .skills-grid {
@@ -17,7 +16,7 @@
   .skill-card {
     background: #f9f9f9;
     border-radius: 12px;
-    padding: 1.5rem;
+    padding: 12px;
     text-align: center;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
@@ -34,7 +33,7 @@
     }
 
     h3 {
-      font-size: 1.2rem;
+      font-size: 16px;
       margin-bottom: 0.5rem;
     }
 

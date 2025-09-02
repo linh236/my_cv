@@ -105,12 +105,12 @@
   margin-bottom: 15px;
 }
 .profile-card .name {
-  font-size: 1.8rem;
+  font-size: 20px;
   font-weight: bold;
   margin-bottom: 5px;
 }
 .profile-card .title {
-  font-size: 1.2rem;
+  font-size: 16px;
   color: #007bff;
   font-weight: 500;
   margin-bottom: 15px;
@@ -121,7 +121,7 @@
 .profile-card .social-links a {
   margin: 0 8px;
   color: #007bff;
-  font-size: 1.3rem;
+  font-size: 16px;
   transition: all 0.3s ease;
 }
 .profile-card .social-links a:hover {
@@ -142,7 +142,7 @@
   text-align: left;
 }
 .profile-card .infor-page h2 {
-  font-size: 1.3rem;
+  font-size: 16px;
   color: #007bff;
   margin-bottom: 15px;
   border-bottom: 2px solid #007bff;
@@ -157,7 +157,7 @@
   display: flex;
   align-items: center;
   margin: 12px 0;
-  font-size: 0.95rem;
+  font-size: 14px;
 }
 .profile-card .infor-page .info-list li i {
   color: #007bff;
@@ -221,12 +221,11 @@
 }
 
 .skills {
-  padding: 2rem;
   background: #fff;
 }
 .skills .section-title {
   text-align: center;
-  font-size: 1.8rem;
+  font-size: 16px;
   margin-bottom: 2rem;
 }
 .skills .skills-grid {
@@ -252,7 +251,7 @@
   margin-bottom: 1rem;
 }
 .skills .skill-card h3 {
-  font-size: 1.2rem;
+  font-size: 16px;
   margin-bottom: 0.5rem;
 }
 .skills .skill-card p {
