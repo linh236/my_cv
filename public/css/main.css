@@ -225,7 +225,7 @@
 }
 .skills .section-title {
   text-align: center;
-  font-size: 16px;
+  font-size: 26px;
   margin-bottom: 5px;
 }
 .skills .skills-grid {
@@ -664,6 +664,9 @@ body {
 .page .pagination {
   text-align: center;
   padding: 10px 0;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
 }
 
 /*# sourceMappingURL=main.css.map */
